@@ -1,3 +1,5 @@
+![Mitchell](https://user-images.githubusercontent.com/107579508/206444540-cba602f1-5920-4c0c-90e5-a0a0c3942e74.jpg)
+
 ### Hi there, I'm Mitch!👋
 
 🌱 I’m currently an active student at UNCC's Data Analytics Boot Camp with a background in public accounting. My passion for technology and numbers pushed me to enroll in the program in June of 2022. This decision has uncovered a trove of new topics and interests that I want to pursue and utilize for gainful employment in the technology sector. Please browse my public repositories which showcase my projects I have completed thus far!
