@@ -1,8 +1,7 @@
 ### Hi there, I'm Mitch!👋
 
-🌱 I’m currently a graduate of UNCC's Programming and Data Analytics program with a background in public accounting. My passion for technology and numbers pushed me to enroll in the program in June of 2022. This decision has uncovered a trove of new topics and interests that I want to pursue and utilize for gainful employment in the technology sector. Please browse my public repositories which showcase my projects I have completed thus far!
+🌱 I’m currently a Data Analyst/Engineer at Quarterra, a real estate investment trust. Please browse my public repositories which showcase my projects I have completed thus far!
 - 📫 How to reach me: **Mitchell.Fagert@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/mitchellfagert/)**
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite comfort foods are fresh donuts & cinnamon rolls.
 
 # Technical Skills
